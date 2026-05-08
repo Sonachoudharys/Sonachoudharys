@@ -1,12 +1,12 @@
-## 🪐 About Me
+# 🪐 About Me
 
 Hello, my name is **Sona Choudhary**. I am a **B.Tech student specializing in Artificial Intelligence and Machine Learning**, passionate about building intelligent systems that solve real-world problems.
 
-I have hands-on experience with **Python, Machine Learning, Computer Vision, OpenCV, Flask, HTML, CSS, and JavaScript**. I enjoy developing AI-driven applications and exploring innovative technologies in the fields of **Artificial Intelligence and Data Science**.
+I have hands-on experience in **Python, Machine Learning, Computer Vision, OpenCV, Flask, HTML, CSS, and JavaScript**. I enjoy developing AI-driven applications and exploring innovative technologies in the fields of **Artificial Intelligence and Data Science**.
 
-I have developed projects such as **Emotion Detection using AI, Face Recognition Systems, COVID Mask Detection, Age & Gender Prediction models, and the National Scheme Fraud Portal (NSFP)**. These projects helped me gain practical experience in **computer vision, deep learning, anomaly detection, web development, and real-time AI applications**.
+I have developed projects such as **Emotion Detection using AI, Face Recognition Systems, COVID Mask Detection, Age & Gender Prediction Models, and the National Scheme Fraud Portal (NSFP)**. These projects have helped me gain practical experience in **Computer Vision, Deep Learning, Anomaly Detection, Web Development, and Real-Time AI Applications**.
 
-The **National Scheme Fraud Portal (NSFP)** is an AI-powered fraud detection platform built using **Python, Flask, MySQL, and Scikit-learn**. It uses the **Isolation Forest algorithm** to detect suspicious transactions in highly imbalanced datasets and provides interactive analytics dashboards, fraud heatmaps, secure authentication, and automated PDF report generation for analysts and stakeholders.
+The **National Scheme Fraud Portal (NSFP)** is an AI-powered fraud detection platform built using **Python, Flask, MySQL, and Scikit-learn**. It uses the **Isolation Forest Algorithm** to detect suspicious transactions in highly imbalanced datasets and provides interactive analytics dashboards, fraud heatmaps, secure authentication, and automated PDF report generation for analysts and stakeholders.
 
 I am continuously improving my skills in **Data Structures & Algorithms, Competitive Programming, and Advanced Machine Learning**, with the goal of becoming a skilled **AI/ML Engineer** and contributing to impactful technology solutions.
 
@@ -15,34 +15,51 @@ I am continuously improving my skills in **Data Structures & Algorithms, Competi
 # 🚀 Featured Projects
 
 ## 🔹 National Scheme Fraud Portal (NSFP)
+
 **Tech Stack:** Python, Flask, MySQL, Scikit-learn, Railway
 
-- Engineered an AI-powered government scheme fraud detection platform using **Isolation Forest** to flag anomalous transactions on highly imbalanced datasets, achieving strong F1-score performance.
-- Deployed a production-ready Flask web application on Railway with secure user authentication and role-based session management.
-- Built a real-time interactive analytics dashboard with state-wise fraud heatmaps and fraud insights visualization.
-- Implemented model evaluation metrics including **Precision, Recall, and F1-Score** for data-driven analysis.
-- Automated PDF report generation pipeline enabling one-click export of fraud insights for non-technical stakeholders.
-
-## 🔹 Emotion Detection using AI
-- Built a real-time emotion recognition system using **OpenCV, DeepFace, and Python**.
-- Detected human emotions through webcam input with live facial analysis.
-
-## 🔹 Face Recognition System
-- Developed an AI-based face recognition and identification system using **OpenCV and Machine Learning** techniques.
-
-## 🔹 COVID Mask Detection
-- Created a computer vision model to detect whether a person is wearing a face mask in real time.
-
-## 🔹 Age & Gender Prediction
-- Implemented deep learning models for predicting age group and gender from facial images.
+- Engineered an AI-powered government scheme fraud detection platform using the **Isolation Forest Algorithm** to identify anomalous transactions in highly imbalanced datasets.
+- Developed and deployed a production-ready Flask web application on **Railway** with secure user authentication and role-based session management.
+- Built an interactive real-time analytics dashboard with state-wise fraud heatmaps and fraud insights visualization.
+- Implemented model evaluation metrics including **Precision, Recall, and F1-Score** for performance analysis.
+- Automated PDF report generation, enabling one-click export of fraud analysis reports for stakeholders.
 
 ---
 
-## 🌐 Socials
+## 🔹 Emotion Detection using AI
+
+- Built a real-time emotion recognition system using **Python, OpenCV, and DeepFace**.
+- Detected and analyzed human emotions through live webcam input.
+
+---
+
+## 🔹 Face Recognition System
+
+- Developed an AI-based face recognition and identification system using **OpenCV and Machine Learning** techniques.
+
+---
+
+## 🔹 COVID Mask Detection
+
+- Created a computer vision model to detect whether a person is wearing a face mask in real time.
+
+---
+
+## 🔹 Age & Gender Prediction
+
+- Implemented deep learning models for predicting age groups and gender from facial images.
+
+---
+
+# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-choudhary-2104aa279/)
+
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sona%20Choudhary)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonachoudhary410@gmail.com)
+
+---
 
 # 💻 Tech Stack
 
@@ -65,13 +82,15 @@ I am continuously improving my skills in **Data Structures & Algorithms, Competi
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sonachoudharys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Sonachoudharys&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Sonachoudharys&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonachoudharys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonachoudharys&theme=dark&hide_border=false&layout=compact)
 
 ---
 
